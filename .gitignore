@@ -1,0 +1,35 @@
+CHAOS-MRT2/
+
+CHAOS-MRT2-NORMALIZED/
+
+Essais unet simple/
+
+Essais unet aug/
+
+EssaisClassiqueV2/
+
+Models unet simple/
+
+modelClassiqueSaves/
+
+EssaisClassique2D/
+
+EssaisAugmented2D/
+
+CHAOS-MRT2-2D-NORMALIZED/
+
+Models inutiles/
+*.nii.gz
+
+*.pth
+
+*.pt
+
+CHAOS-MRT2-2D-NORMALIZED.rar
+
+valeurs_train_validation_loss.txt
+
+
+Architecture U-net2D.ipynb
+Architecture_U_net2D_Attention.ipynb
+
